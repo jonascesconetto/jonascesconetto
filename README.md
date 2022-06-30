@@ -25,5 +25,3 @@ Currently, I live in Brazil and work at **[Cartesian Engenharia](https://cartesi
 ### 📊 [Data Career](https://github.com/jonascesconetto/data-career)
 
 ### 🚧 [Infra](https://github.com/jonascesconetto/infra)
-
-<br>
