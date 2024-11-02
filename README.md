@@ -1,5 +1,4 @@
-
-[![author](https://img.shields.io/badge/author-jonascesconetto-red.svg)](https://www.linkedin.com/in/jonascesconetto) 
+<!-- [![author](https://img.shields.io/badge/author-jonascesconetto-red.svg)](https://www.linkedin.com/in/jonascesconetto) -->
 ## I'm **Jonas Ceconetto**, 
 
 Currently, I live in Brazil and work at **[CESCOTECH](https://cescotech.digital/)**. 
@@ -33,10 +32,11 @@ Currently, I live in Brazil and work at **[CESCOTECH](https://cescotech.digital/
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-<br>
+<!--- br>
 
 Below I present some repositories related to the studies and work already carried out.
 
 - 📊 [Data](https://github.com/jonascesconetto/data-career)
 
 - 🚧 [Infra](https://github.com/jonascesconetto/infra)
+-->
