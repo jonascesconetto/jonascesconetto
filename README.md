@@ -54,7 +54,7 @@ Engenheiro de Computação com MBA em Gestão de Projetos, especializado em **En
 ### Ferramentas
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!--![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
 
 ---
 
@@ -64,10 +64,10 @@ Meus repositórios seguem uma nomenclatura padronizada para fácil identificaç�
 
 | Prefixo | Descrição | Exemplo |
 |---------|-----------|---------|
-| `[PracticalTest]_` | Testes práticos de processos seletivos | `[PracticalTest]_DataEngineer` |
-| `[Project]_` | Projetos próprios e profissionais | `[Project]_ERPIntegration` |
-| `[Study]_` | Material de estudo e referência | `[Study]_MachineLearning` |
-| `[StudyProject]_` | Projetos práticos de cursos | `[StudyProject]_DataPipeline` |
+| `PracticalTest_` | Testes práticos de processos seletivos | `PracticalTest_DataEngineer` |
+| `Project_` | Projetos próprios e profissionais | `Project_ERPIntegration` |
+| `Study_` | Material de estudo e referência | `Study_MachineLearning` |
+| `StudyProject_` | Projetos práticos de cursos | `StudyProject_DataPipeline` |
 | *Sem prefixo* | Repositórios diversos e experimentais | - |
 
 > 💡 **Dica:** Todos os repositórios contêm READMEs detalhados com instruções de uso e documentação técnica.
