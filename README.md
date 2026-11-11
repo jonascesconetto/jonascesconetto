@@ -64,7 +64,6 @@ Meus repositórios seguem uma nomenclatura padronizada para fácil identificaç�
 
 | Prefixo | Descrição | Exemplo |
 |---------|-----------|---------|
-| `PracticalTest_` | Testes práticos de processos seletivos | `PracticalTest_DataEngineer` |
 | `Project_` | Projetos próprios e profissionais | `Project_ERPIntegration` |
 | `Study_` | Material de estudo e referência | `Study_MachineLearning` |
 | `StudyProject_` | Projetos práticos de cursos | `StudyProject_DataPipeline` |
